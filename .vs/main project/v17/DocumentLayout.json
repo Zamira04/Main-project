@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\main project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B81C36-E5C8-4211-8789-0BFCF28FB446}|main project\\main project.vcxproj|D:\\main project\\main project\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8B81C36-E5C8-4211-8789-0BFCF28FB446}|main project\\main project.vcxproj|solutionrelative:main project\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\main project\\main project\\Source.cpp",
+              "RelativeDocumentMoniker": "main project\\Source.cpp",
+              "ToolTip": "D:\\main project\\main project\\Source.cpp",
+              "RelativeToolTip": "main project\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T11:32:26.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
